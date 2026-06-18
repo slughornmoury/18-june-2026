@@ -1,0 +1,12 @@
+.parent{
+    background-color: aqua;
+}
+*{
+    text-align: center;
+}
+footer{
+    height: 50px;
+    padding: 5px;
+    background-color: gray;
+    color: white;
+}
